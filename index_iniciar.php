@@ -36,9 +36,9 @@ if (isset($_SESSION['active']) && $_SESSION['active']==true) {
 
 <body style="background-color: #55407d;">
 
-  <div class="container">
-    <div class="card card-login mx-auto mt-5 col-md-6">
-      <div class="card-header"  style="background-color: #adc867;">Iniciar sesión</div>
+  <div class="container col-md-6">
+    <div class="card card-login mx-auto mt-5 ">
+      <div class="card-header text-center"  style="background-color: #adc867;">INICIAR SESIÓN</div>
       <div class="card-body">
         <form method="POST" action="">
           <div class="form-group">
