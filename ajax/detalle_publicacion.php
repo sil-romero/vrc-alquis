@@ -29,6 +29,7 @@ if (isset($_POST)) {
                             'imagen_4' => $valor['imagen_4'],
                             'imagen_5' => $valor['imagen_5'], */
                             'id_publicacion' => $valor['id_publicacion'],
+                            'fecha_hora' => $valor['fecha_hora'],
                             'acepta_mascota' => $valor['acepta_mascota'],
                             'nombre_localidad' => $valor['nombre_localidad'],
                             'codigo_postal' => $valor['codigo_postal'],
@@ -39,6 +40,7 @@ if (isset($_POST)) {
                             'des_calle' => $valor['des_calle'],
                             'locales_comerciales' => $valor['locales_comerciales'],
                             'inst_educativas' => $valor['inst_educativas'],
+                            'centros_salud' => $valor['centros_salud'],
                             'lineas_colectivo' => $valor['lineas_colectivo'],
                             'nombre_subcategoria' => $valor['nombre_subcategoria'],
                             'nombre_categoria' => $valor['nombre_categoria'],

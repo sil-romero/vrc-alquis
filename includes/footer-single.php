@@ -146,7 +146,6 @@
 <script src="plugins/parallax-js-master/parallax.min.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyDHpypaMnDl_DTgY_5mb5AzDxrnReEDMDo"></script>
 <script src="js/custom.js"></script>
-<script src="ajax/listings1.js"></script>
 <script src="ajax/footer.js"></script>
 </body>
 
