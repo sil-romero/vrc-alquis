@@ -41,7 +41,7 @@
       <div class="card-header" style="background-color: #adc867;">Regístrate</div>
       <div class="card-body">
 
-      <label for="tipousuario">Selecciona qué tipo de usuario eres:</label>
+      <label for="tipousuario">¿Qué usuario eres?</label>
             <br>
             <br>
 
@@ -51,7 +51,7 @@
               <a href="register_locador.php?rol=1" class="btn btn-primary btn-block col-md-4 mx-auto" style="background-color: #adc867;" >Propietario Particular</a>
             <br>
             <br>
-            <a href="register_locador.php?rol=2" class="btn btn-primary btn-block col-md-4 mx-auto" style="background-color: #adc867;" >Inmobiliaria</a>
+            <a href="register_locador.php?rol=2" class="btn btn-primary btn-block col-md-4 mx-auto" style="background-color: #adc867;" >Propietario de Inmobiliaria</a>
             <!-- <a href="register_locatario.php?rol=3" class="btn btn-primary btn-block col-md-4 mx-auto" style="background-color: #adc867;">Cliente</a> -->
          
         </form>
