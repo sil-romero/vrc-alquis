@@ -117,7 +117,7 @@ function listarPublicaciones() {
             publicacion.forEach(element => {
                 template += `
                 <!-- Listing -->
-                <div class="listing_box house sale col-lg-4">
+                <div class="listing_box house sale">
                         <div class="listing" idPublicacion="${element.id_publicacion}">
                             <div class="listing_image">
                                 <div class="listing_image_container";>

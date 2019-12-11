@@ -122,7 +122,7 @@ include 'includes/header-listings.php';
 
 				<!-- Listings Container AQUÍ SE MUESTRAN LAS PUBLICACIONNES -->
 
-				<div class="listings_container d-flex justify-content-between align-items-start" >
+				<div class="listings_container  justify-content-between align-items-start">
 				<div class="row" id="listarPub">
 
 				</div>
