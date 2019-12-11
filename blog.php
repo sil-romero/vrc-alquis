@@ -93,6 +93,7 @@ include 'includes/header-blog.php';
 							<ul>
 								<li><a href="#">Econónimos</a></li>
 								<li><a href="#">Dimensiones grandes</a></li>
+								<li><a href="#">Publicación más reciente</a></li>
 								
 							</ul>
 						</div>
@@ -118,18 +119,18 @@ include 'includes/header-blog.php';
 						</div>
 					</div>
 					<div class="extra d-flex flex-column align-items-start justify-content-start">
-						<div class="background_image" style="background-image:url(images/extra.jpg)"></div>
-						<div class="extra_button"><a href="listings.html">Salón de evento?</a></div>
+						<div class="background_image" style="background-image:url(images/evento2.jpg)"></div>
+						<div class="extra_button"><a href="listings.html">¿Buscas salón de evento?</a></div>
 						<div class="extra_phone_container mt-auto">
-							<div>Maria Smith</div>
+							<div>Maria Silva</div>
 							<div>3705-677892</div>
 						</div>
 					</div>
 					<div class="extra d-flex flex-column align-items-start justify-content-start">
-						<div class="background_image" style="background-image:url(images/realtor_2.jpg)"></div>
-						<div class="extra_button"><a href="listings.html">Salón de evento?</a></div>
+						<div class="background_image" style="background-image:url(images/evento1.jpg)"></div>
+						<div class="extra_button"><a href="listings.html">¿Buscas salón de evento?</a></div>
 						<div class="extra_phone_container mt-auto">
-							<div>Estela Bosh</div>
+							<div>Estela Baez</div>
 							<div>3705-956677</div>
 						</div>
 					</div>

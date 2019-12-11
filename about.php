@@ -235,7 +235,7 @@ include 'includes/header-about.php';
 							<div class="agent_list">
 								<ul>
 									<li>karen@gmail.com</li>
-									<li>3704 456734</li>
+									
 								</ul>
 							</div>
 							<div class="social">
@@ -259,7 +259,7 @@ include 'includes/header-about.php';
 							<div class="agent_list">
 								<ul>
 									<li>sil@gmail.com</li>
-									<li>3704 671245</li>
+									
 								</ul>
 							</div>
 							<div class="social">
@@ -283,7 +283,7 @@ include 'includes/header-about.php';
 							<div class="agent_list">
 								<ul>
 									<li>veravero@gmail.com</li>
-									<li>3704 890756</li>
+									
 								</ul>
 							</div>
 							<div class="social">
@@ -317,9 +317,9 @@ include 'includes/header-about.php';
 
 				<!-- Contact - About -->
 				<div class="col-lg-4 contact_col">
-					<div class="logo"><a href="#">VRC-<span>Alquileres</span></a></div>
+					<div class="logo"><a href="#" style="color:#7049BE">VRC-<span style="color:#7049BE">Alquileres</span></a></div>
 					<div class="contact_text">
-						<p>Te brindamos éste espacio para que puedas realizar tus consultas, las cuáles serán atendidas a la brevedad...
+						<p style="color:black">Te brindamos éste espacio para que puedas realizar tus consultas, las cuáles serán atendidas a la brevedad...
 							Además tienes a disposición los diferentes medios con que puedes comunicarte con nosotros. </p>
 					</div>
 				</div>
@@ -384,7 +384,7 @@ include 'includes/header-about.php';
 
 	<!-- Google Map -->
 
-	<div class="contact_map_container">
+	<!-- <div class="contact_map_container">
 		<div class="map">
 			<div id="google_map" class="google_map">
 				<div class="map_container">
@@ -392,7 +392,7 @@ include 'includes/header-about.php';
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 		</div>
 	</div>
 
