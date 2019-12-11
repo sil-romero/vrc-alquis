@@ -76,26 +76,24 @@ include 'includes/header-blog.php';
 					</div>
 
 					<!-- Categories -->
-					<div class="categories">
+					<!-- <div class="categories">
 						<div class="sidebar_title">
 							<h3>Categories</h3>
 						</div>
 						<div class="sidebar_list">
 						</div>
-					</div>
+					</div> -->
 
 					<!-- Archive -->
 					<div class="archive">
 						<div class="sidebar_title">
-							<h3>Archive</h3>
+							<h3>BUSCAR</h3>
 						</div>
 						<div class="sidebar_list">
 							<ul>
-								<li><a href="#">October 2018</a></li>
-								<li><a href="#">September 2018</a></li>
-								<li><a href="#">August 2018</a></li>
-								<li><a href="#">July 2018</a></li>
-								<li><a href="#">June 2018</a></li>
+								<li><a href="#">Econónimos</a></li>
+								<li><a href="#">Dimensiones grandes</a></li>
+								
 							</ul>
 						</div>
 					</div>
@@ -103,27 +101,36 @@ include 'includes/header-blog.php';
 					<!-- Tags -->
 					<div class="sidebar_tags">
 						<div class="sidebar_title">
-							<h3>Tags</h3>
+							<h3>OTROS</h3>
 						</div>
 						<ul class="d-flex flex-row align-items-start justify-content-start flex-wrap">
-							<li><a href="#">tips & tricks</a></li>
-							<li><a href="#">real estate</a></li>
-							<li><a href="#">house</a></li>
-							<li><a href="#">home</a></li>
-							<li><a href="#">guest</a></li>
-							<li><a href="#">property</a></li>
-							<li><a href="#">car</a></li>
-							<li><a href="#">buy & sell</a></li>
+							<li><a href="#">con garage</a></li>
+							<li><a href="#">Acepta mascota</a></li>
+							<li><a href="#">Mensuales</a></li>
+							<li><a href="#">Temposrales</a></li>
 						</ul>
-					</div>
+					</div><hr>
 
 					<!-- Extra -->
+					<div class="sidebar_tags">
+						<div class="sidebar_title">
+							<h3>PUBLICIDADES</h3>
+						</div>
+					</div>
 					<div class="extra d-flex flex-column align-items-start justify-content-start">
 						<div class="background_image" style="background-image:url(images/extra.jpg)"></div>
-						<div class="extra_button"><a href="listings.html">Need a Property?</a></div>
+						<div class="extra_button"><a href="listings.html">Salón de evento?</a></div>
 						<div class="extra_phone_container mt-auto">
-							<div>Call Maria Smith</div>
-							<div>00349 566 77892</div>
+							<div>Maria Smith</div>
+							<div>3705-677892</div>
+						</div>
+					</div>
+					<div class="extra d-flex flex-column align-items-start justify-content-start">
+						<div class="background_image" style="background-image:url(images/realtor_2.jpg)"></div>
+						<div class="extra_button"><a href="listings.html">Salón de evento?</a></div>
+						<div class="extra_phone_container mt-auto">
+							<div>Estela Bosh</div>
+							<div>3705-956677</div>
 						</div>
 					</div>
 

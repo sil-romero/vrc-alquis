@@ -35,10 +35,10 @@
   
 
 
-  <div class="container" >
-    <div class="card card-register mx-auto mt-5 col-md-8" >
+  <div class="container col-md-6" >
+    <div class="card card-register mx-auto mt-5 " >
         
-      <div class="card-header" style="background-color: #adc867;">Regístrate</div>
+      <div class="card-header text-center" style="background-color: #adc867;">REGÍSTRATE</div>
       <div class="card-body">
 
       <label for="tipousuario">¿Qué usuario eres?</label>
@@ -50,8 +50,12 @@
               <!-- CADA BOTON CAPTURA EL ID PARA CARGARLO A LA BASE DE DATOS EL TIPO DE USUARIO, LO CUAL NOS LLEVA A DISTINTOS FORMULARIOS -->
               <a href="register_locador.php?rol=1" class="btn btn-primary btn-block col-md-4 mx-auto" style="background-color: #adc867;" >Propietario Particular</a>
             <br>
+<<<<<<< HEAD
             <br>
             <a href="register_locador.php?rol=2" class="btn btn-primary btn-block col-md-4 mx-auto" style="background-color: #adc867;" >Propietario de Inmobiliaria</a>
+=======
+            <a href="register_locador.php?rol=2" class="btn btn-primary btn-block col-md-4 mx-auto" style="background-color: #adc867;" >Inmobiliaria</a>
+>>>>>>> c14933d6025fd803c6d7db6f234cf44be280a03a
             <!-- <a href="register_locatario.php?rol=3" class="btn btn-primary btn-block col-md-4 mx-auto" style="background-color: #adc867;">Cliente</a> -->
          
         </form>
