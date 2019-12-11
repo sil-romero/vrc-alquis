@@ -58,6 +58,9 @@ function cargaPagina(a){
   paginador.children().eq(pagina+2).addClass("active")
 }
 
+
+
+
 /* armamos la funcion de mostrar las publicaciones detacadas */
 function listarPublicacionesDestacadas() {
 

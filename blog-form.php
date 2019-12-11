@@ -37,7 +37,7 @@ if (!isset($_SESSION['active'])) {
 
 <div class="blog" style="background-color: #D8BFD8;">
 
-<div class="footer_submit mx-auto"><a href="form-page.php">Ver mis publicaciones</a></div>
+<!-- <div class="footer_submit mx-auto"><a href="form-page.php">Ver mis publicaciones</a></div> -->
 
 <br>
 		<div class="container">

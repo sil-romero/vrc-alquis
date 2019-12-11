@@ -91,10 +91,8 @@ include 'includes/header-blog.php';
 						</div>
 						<div class="sidebar_list">
 							<ul>
-								<li><a href="#">Econónimos</a></li>
-								<li><a href="#">Dimensiones grandes</a></li>
-								<li><a href="#">Publicación más reciente</a></li>
-								
+								<li><a href="listar_destacados.php?val=1">Econónimos</a></li>
+								<li><a href="#">Dimensiones grandes</a></li>	
 							</ul>
 						</div>
 					</div>

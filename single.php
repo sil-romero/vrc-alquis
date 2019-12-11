@@ -194,7 +194,7 @@ $idPublicacion = $_GET['id'];
                                     <li class="d-flex flex-row align-items-center justify-content-start">
                                         <img src="images/icon_2_large.png" alt="">
                                         <div>
-                                            <div>${element.dimension}</div>
+                                            <div>${element.dimension} m^2 </div>
                                         </div>
                                     </li>
                                     <li class="d-flex flex-row align-items-center justify-content-start">
